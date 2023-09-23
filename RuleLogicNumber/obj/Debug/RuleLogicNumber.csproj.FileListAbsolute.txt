@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\bin\Debug\RuleLogicNumber.exe.config
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\bin\Debug\RuleLogicNumber.exe
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\bin\Debug\RuleLogicNumber.pdb
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\obj\Debug\RuleLogicNumber.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\obj\Debug\RuleLogicNumber.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\obj\Debug\RuleLogicNumber.exe
+C:\Users\MSI\Desktop\Tech\C#\OOP Test\RuleLogicNumber\RuleLogicNumber\obj\Debug\RuleLogicNumber.pdb
